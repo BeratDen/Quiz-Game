@@ -1,0 +1,17 @@
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.exe
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.deps.json
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.runtimeconfig.json
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.runtimeconfig.dev.json
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.dll
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.pdb
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.csproj.AssemblyReference.cache
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.AssemblyInfoInputs.cache
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.AssemblyInfo.cs
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\staticwebassets\QuizApp.StaticWebAssets.Manifest.cache
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.RazorTargetAssemblyInfo.cache
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.dll
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.pdb
+C:\Users\GameCenter\source\repos\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.genruntimeconfig.cache
